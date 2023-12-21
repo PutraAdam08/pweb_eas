@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pweb_eas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68e0f61a0882a8e94d860563ad2d60b52ba22a75")]
 [assembly: System.Reflection.AssemblyProductAttribute("pweb_eas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pweb_eas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
