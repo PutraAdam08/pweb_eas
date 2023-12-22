@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\putra\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\putra\\OneDrive\\Dokumen\\Program\\Web\\pweb_eas\\pweb_eas\\pweb_eas\\pweb_eas.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\pweb_eas\\pweb_eas\\pweb_eas\\pweb_eas.csproj",
       "projectName": "pweb_eas",
-      "projectPath": "C:\\Users\\putra\\OneDrive\\Dokumen\\Program\\Web\\pweb_eas\\pweb_eas\\pweb_eas\\pweb_eas.csproj",
-      "packagesPath": "C:\\Users\\putra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\putra\\OneDrive\\Dokumen\\Program\\Web\\pweb_eas\\pweb_eas\\pweb_eas\\obj\\",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\pweb_eas\\pweb_eas\\pweb_eas\\pweb_eas.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\pweb_eas\\pweb_eas\\pweb_eas\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\putra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
